@@ -1,5 +1,8 @@
-Hey
-its me
-rando
-I made https://rando-idiot.github.io/Terminus.JS/
-check it out
+<!doctype HTML>
+
+<HTML>
+  <body>
+    Hiiii im going to explode :3
+    
+  </body>
+</HTML>

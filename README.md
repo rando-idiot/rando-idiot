@@ -1,4 +1,3 @@
-<!doctype HTML>
 
 <HTML>
   <body>
